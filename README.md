@@ -1,0 +1,1 @@
+conjunto de imagenes de la famosa serie de adult swim rick y morty en donde tiene a todos los personajes de la serie junto con sus nombres y apellidos
