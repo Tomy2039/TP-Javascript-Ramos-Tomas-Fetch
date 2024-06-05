@@ -7,11 +7,11 @@ const fetchData = async () => {
         
         respuesta.forEach(respuest => {
             const item = document.createElement("div")
-            item.className= "exito"
+            item.className= "carta"
             item.innerHTML += `
                 <div class="Personaje">
-                    <img src="${respuest.image}"/>
                     <h2>${respuest.name}</h2>
+                    <img src="${respuest.image}"/>
                 </div>
             `
             contenido.appendChild(item)
